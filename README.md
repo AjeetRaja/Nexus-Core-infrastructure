@@ -34,3 +34,7 @@ nexus-core/
 ├── src/                  # Core application source code
 ├── docs/                 # Architectural diagrams and documentation
 └── README.md             # Project documentation
+## System Architecture
+<img width="1408" height="768" alt="architecture-diagram png" src="https://github.com/user-attachments/assets/bc81b4c2-42d5-4496-a1e9-31630cb311f5" />
+
+
